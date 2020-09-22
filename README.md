@@ -2,7 +2,7 @@
 
 Hello!
 
-Welcome to the repository for the Coding Workshop conducted by The Impact Engine.
+Welcome to the repository for the Coding Workshop.
 
 You can find all the code that we've done and explained in the session here.
 
