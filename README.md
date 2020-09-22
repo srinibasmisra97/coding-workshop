@@ -18,6 +18,8 @@ As the name suggests, a datatype is a name for the type of data.
 
 `"this is a word"` is of type `string`.
 
+To learn more about datatypes, you can check [here](https://realpython.com/python-data-types/).
+
 ## Variables
 
 A variable is a storage for a value.
@@ -63,6 +65,8 @@ string = str(number)
 Now, the variable `string` would hold the value `"57"`.
 
 And it works vice-versa as well.
+
+To learn more about variables, check [this](https://realpython.com/python-variables/).
 
 ## User Inputs:
 To get an input from user, Python has the functionality of `input()`.
@@ -131,6 +135,8 @@ else:
     print("Greater than 4")
 ```
 
+To learn more about if statements, check [this](https://realpython.com/python-conditional-statements/).
+
 ## Loops
 Loops, as the name suggests, is to loop through stuff.
 
@@ -192,6 +198,8 @@ d
 e
 ```
 
+To learn more about for loops, check [this](https://realpython.com/python-for-loop/).
+
 #### While loops
 ```python
 i = 0
@@ -212,6 +220,8 @@ This would print:
 8
 9
 ```
+
+To learn more about while loops, check [this](https://realpython.com/python-while-loop/).
 
 ## Functions
 A function is a collective of code which we can reuse.
@@ -254,6 +264,8 @@ sum = add(5, 10)
 
 Here, we are calling the function `add` and passing the values as 5 and 10. 
 And we are storing the result in a variable called `sum`.
+
+To learn more about functions, check [this](https://realpython.com/defining-your-own-python-function/).
 
 
 ## Conclusion
