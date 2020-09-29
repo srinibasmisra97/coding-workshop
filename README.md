@@ -93,6 +93,16 @@ data to print, they have been converted to string.
 **NOTE AGAIN**: If you a pass a single integer or a double or a float value, print will print the value as it is.
 But if you want to print an integer with a string, you'll have to convert the integer
 into a string. 
+```python
+string = "this is a string"
+number = int(57)
+print(string + str(number))
+```
+
+This will give the output:
+```
+this is a string57
+```
 
 ## Conditional Statements:
 In python (and 99% of other programming languages as well..), conditional statements
