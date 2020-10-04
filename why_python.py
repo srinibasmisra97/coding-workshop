@@ -1,4 +1,4 @@
-question = input("Ask your question:")
+question = str(input("Ask your question:"))
 
 if question == "Why are we using python?":
     print("It is as universal as English!")
